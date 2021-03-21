@@ -1,5 +1,5 @@
 ## class detail
 
-** Bold line **
+**Bold line**
 
-*Italic line *
+*Italic line*
